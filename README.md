@@ -44,14 +44,14 @@
 
 > *"I enjoy turning ideas into real-world solutions—combining logic, creativity, and technology to build impactful projects."*
 
--🎓 Second-year B.Tech Computer Science student with a strong foundation in problem-solving, OOP, and data structures
--💻 Passionate about software development, with hands-on experience in C++, Python, and AI/ML technologies
--🚀 Currently working on innovative projects like a Smart AI-based Street Lamp and a console-based city-building game
--🤖 Built a digit recognition system using CNNs with TensorFlow, Keras, and Python, gaining practical ML experience
--🧠 Strong grasp of algorithms, object-oriented programming, and system design concepts
--🏆 Active in Model United Nations (MUN) with multiple wins, showcasing leadership, communication, and analytical thinking
--🌱 Continuously learning and exploring AI, development, and emerging technologies
--🤝 Open to internships, hackathons, and collaborative tech projects to grow and contribute
+- 🎓 Second-year **B.Tech Computer Science** student with a strong foundation in **problem-solving, OOP** and **data structures**
+- 💻 Passionate about **software development**, with hands-on experience in **C++**, **Python**, and **AI/ML** technologies
+- 🚀 Currently working on innovative projects like a **City Level Air Purifying Smart street Lamp** 
+- 🤖 Built a **digit recognition system** using **CNNs with TensorFlow**, **Keras**, and **Python**, gaining practical ML experience
+- 🧠 Strong grasp of **algorithms, object-oriented programming**, and **system design concepts**
+- 🏆 Active in **Model United Nations** (MUN) with multiple wins, showcasing **leadership**, **communication**, and **analytical thinking**
+- 🌱 Continuously learning and exploring AI, development, and emerging technologies
+- 🤝 Open to internships, hackathons, and collaborative tech projects to grow and contribute
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
