@@ -60,7 +60,7 @@
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,c,html,c++" />
+<img src="https://skillicons.dev/icons?i=python,c,html,cpp" />
 
 ### 🌱 Currently Learning
 <img src="https://skillicons.dev/icons?i=r" />
